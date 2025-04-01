@@ -1,7 +1,7 @@
 # SIEM Implementation on Microsoft Azure
 
 ## 📸 Project Screenshots
-Click [here](https://github.com/Travis-N-W/Active-Directory/tree/main/screenshots) to view all screenshots.
+Click [here](https://github.com/Travis-N-W/SIEM/tree/main/screenshots) to view all screenshots.
 
 ## Brief Objective
 This project focuses on implementing a **Security Information and Event Management (SIEM) solution** on **Microsoft Azure** by integrating **MISP** (Malware Information Sharing Platform) with **Azure Sentinel** using the **MISP2Sentinel** data connector. The goal was to aggregate threat intelligence feeds, including indicators of compromise (IoCs) and related contextual data from MISP, providing hands-on experience in SIEM implementation and threat intelligence processing.
