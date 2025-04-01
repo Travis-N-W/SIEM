@@ -17,7 +17,7 @@ This project focuses on implementing a **Security Information and Event Manageme
 - MISP (Malware Information Sharing Platform)
 - Docker
 
-## Project Steps
+## Steps
 
 ### 1. **Provisioning an Azure Virtual Machine**
 - Created an **Ubuntu Server 24.04 LTS** virtual machine in Azure.
