@@ -13,7 +13,7 @@ This project focuses on implementing a **Security Information and Event Manageme
 
 ## Tools Used
 - Microsoft Azure
-- Visual Studio Code
+- Visual Studio Code (VS Code)
 - MISP (Malware Information Sharing Platform)
 - Docker
 
